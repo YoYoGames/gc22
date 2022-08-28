@@ -15,6 +15,7 @@ switch( state )
 
 			instance_destroy(other)
 			score += scAdd;
+			//oPlayer.shoot_cd = -1;
 		} // end blocl
 		break;
 } // end switch

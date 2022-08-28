@@ -10,6 +10,25 @@ switch( state )
 			numEnemiesToMake = 9;
 			
 		} // end if
+		// reduce cool down on player
+		switch( ~~(countEnemies/10) ) {
+		case 5:
+		case 4:
+			oPlayer.cd = 30;
+			break;
+		case 3:
+			oPlayer.cd = 20;
+			break;
+		case 2:
+			oPlayer.cd = 15;
+			break;
+		case 1:
+			oPlayer.cd = 10;
+			break;
+		case 0:
+			oPlayer.cd = 1;
+			break;
+		} // end switch
 		break;
 		
 	case eGame.CreatingNextLevel:
