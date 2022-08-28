@@ -22,5 +22,5 @@ function PlayerDeath() {
 	instance_destroy(oEnemyBullet);
 	instance_destroy(oBullet);
 	instance_destroy(oShelter);
-	oGame.state = DONE;		
+	oGame.state = eGame.PlayerDied;		
 } 

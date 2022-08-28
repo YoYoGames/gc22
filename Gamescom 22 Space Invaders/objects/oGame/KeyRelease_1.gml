@@ -1,3 +1,3 @@
-if(state == DONE){
+if(state == eGame.PlayerDied){
 	game_restart();	
 }
