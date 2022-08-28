@@ -1,0 +1,1 @@
+xto = irandom_range(100,room_width-100);
