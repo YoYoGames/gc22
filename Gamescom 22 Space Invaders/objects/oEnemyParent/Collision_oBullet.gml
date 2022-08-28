@@ -3,6 +3,7 @@ switch( state )
 	case eEnemy.Moving:
 		{
 			sprite_index = sEnemyExplosion;
+			image_blend = c_white;
 			state = eEnemy.Exploding;
 
 			var scAdd = 10;
