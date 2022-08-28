@@ -31,7 +31,7 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Gamescom 22 Space Invaders",
-    "path": "Gamescom 22 Space Invaders.yyp",
+    "name": "Enemies",
+    "path": "folders/Enemies.yy",
   },
 }
