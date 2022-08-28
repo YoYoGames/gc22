@@ -3,6 +3,7 @@
   "resourceVersion": "1.6",
   "name": "Gamescom 22 Space Invaders",
   "resources": [
+    {"id":{"name":"oNonSpecificParentShip","path":"objects/oNonSpecificParentShip/oNonSpecificParentShip.yy",},"order":11,},
     {"id":{"name":"Sprite8","path":"sprites/Sprite8/Sprite8.yy",},"order":12,},
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},"order":1,},
     {"id":{"name":"oEnemyBullet","path":"objects/oEnemyBullet/oEnemyBullet.yy",},"order":3,},
