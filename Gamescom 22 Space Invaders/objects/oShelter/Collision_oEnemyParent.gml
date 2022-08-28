@@ -1,1 +1,1 @@
-ApplyDamage();
+instance_destroy();
