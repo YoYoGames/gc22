@@ -1,10 +1,13 @@
 x += (dir*spd);
 
-
-if (random(10000) < 100) {
+switch( state ) {
+	case eEnemy.Moving:
+			if (random(10000) < chanceForBullet) {
 	
-	if ( instance_number( oEnemyBullet ) < 10) {
-		instance_create_layer(x, y, "Enemies", oEnemyBullet );
-	} // end if
+				if ( instance_number( oEnemyBullet ) < maxNumberOfBullets) {
+					instance_create_layer(x, y, "Enemies", oEnemyBullet );
+				} // end if
 	
-}
+			}
+			break;
+} // end switch
