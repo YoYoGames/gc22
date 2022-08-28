@@ -3,8 +3,8 @@
   "resourceVersion": "1.0",
   "name": "oEnemyBasic",
   "spriteId": {
-    "name": "sEnemy",
-    "path": "sprites/sEnemy/sEnemy.yy",
+    "name": "sBen",
+    "path": "sprites/sBen/sBen.yy",
   },
   "solid": false,
   "visible": true,

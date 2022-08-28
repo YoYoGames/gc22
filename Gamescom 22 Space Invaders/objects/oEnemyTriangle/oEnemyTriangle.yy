@@ -3,8 +3,8 @@
   "resourceVersion": "1.0",
   "name": "oEnemyTriangle",
   "spriteId": {
-    "name": "sEnemyTriangle",
-    "path": "sprites/sEnemyTriangle/sEnemyTriangle.yy",
+    "name": "sKinga",
+    "path": "sprites/sKinga/sKinga.yy",
   },
   "solid": false,
   "visible": true,

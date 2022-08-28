@@ -3,8 +3,8 @@
   "resourceVersion": "1.0",
   "name": "oEnemyRound",
   "spriteId": {
-    "name": "sEnemyRound",
-    "path": "sprites/sEnemyRound/sEnemyRound.yy",
+    "name": "sMarco",
+    "path": "sprites/sMarco/sMarco.yy",
   },
   "solid": false,
   "visible": true,

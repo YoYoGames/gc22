@@ -15,7 +15,7 @@ switch( object_index )
 {
 	case oEnemyParent:
 	case oEnemyBasic:
-		col = c_green;
+		col = c_aqua;
 		break;
 	case oEnemyRound:
 		col = c_orange;
