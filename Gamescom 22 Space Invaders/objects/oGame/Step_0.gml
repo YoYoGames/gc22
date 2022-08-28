@@ -40,7 +40,7 @@ switch( state )
 			for( var n=1; n<=string_length(str); { ++n; yy += enemyHeight} ) {
 				switch( string_char_at( str, n ) ) {
 					case "o":
-						instance_create_layer( xx, yy, "Enemies", oEnemyParent );
+						instance_create_layer( xx, yy, "Enemies", oEnemyBasic );
 						break;
 					case "a":
 						instance_create_layer( xx, yy, "Enemies", oEnemyRound );
@@ -55,6 +55,7 @@ switch( state )
 		} // end if
 		else {
 			state = eGame.Playing;
+			score = 0;
 			var xx = shelterOriginX;
 			var yy = shelterOriginY;
 			for( var n=0; n<5; { ++n; xx+=shelterWidth; } ) {

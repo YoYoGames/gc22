@@ -9,9 +9,11 @@ switch( state ) {
 	
 			} // end if
 			
-			var count = instance_number( oEnemyParent );
-			if (count < 3) spd = 12;
-			else if (count < 6) spd = 10;
-			else if ( count < 10) spd = 8;
+			if (oGame.state == eGame.Playing) {
+				var count = instance_number( oEnemyParent );
+				if (count < 3) spd = 12;
+				else if (count < 6) spd = 10;
+				else if ( count < 10) spd = 8;
+			} // end if
 			break;
 } // end switch
