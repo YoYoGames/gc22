@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "oEnemyRound",
+  "name": "oEnemyTriangle",
   "spriteId": {
-    "name": "sEnemyRound",
-    "path": "sprites/sEnemyRound/sEnemyRound.yy",
+    "name": "sEnemyTriangle",
+    "path": "sprites/sEnemyTriangle/sEnemyTriangle.yy",
   },
   "solid": false,
   "visible": true,
