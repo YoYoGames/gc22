@@ -67,7 +67,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Gamescom 22 Space Invaders",
-    "path": "Gamescom 22 Space Invaders.yyp",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
 }
