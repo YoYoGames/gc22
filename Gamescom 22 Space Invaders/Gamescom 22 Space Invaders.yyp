@@ -6,6 +6,7 @@
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},"order":2,},
     {"id":{"name":"oEnemyBullet","path":"objects/oEnemyBullet/oEnemyBullet.yy",},"order":4,},
     {"id":{"name":"oEnemyBasic","path":"objects/oEnemyBasic/oEnemyBasic.yy",},"order":0,},
+    {"id":{"name":"GameOver","path":"fonts/GameOver/GameOver.yy",},"order":14,},
     {"id":{"name":"sEnemy5","path":"sprites/sEnemy5/sEnemy5.yy",},"order":4,},
     {"id":{"name":"sPlayer","path":"sprites/sPlayer/sPlayer.yy",},"order":2,},
     {"id":{"name":"sEnemyRound","path":"sprites/sEnemyRound/sEnemyRound.yy",},"order":3,},
@@ -18,6 +19,7 @@
     {"id":{"name":"sEnemyBullet","path":"sprites/sEnemyBullet/sEnemyBullet.yy",},"order":6,},
     {"id":{"name":"oBullet","path":"objects/oBullet/oBullet.yy",},"order":4,},
     {"id":{"name":"oEnemyParent","path":"objects/oEnemyParent/oEnemyParent.yy",},"order":1,},
+    {"id":{"name":"qGameOver","path":"sequences/qGameOver/qGameOver.yy",},"order":13,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":1,},
   ],
   "Options": [
