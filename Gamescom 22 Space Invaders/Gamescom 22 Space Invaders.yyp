@@ -26,6 +26,7 @@
     {"id":{"name":"oEnemyTriangle","path":"objects/oEnemyTriangle/oEnemyTriangle.yy",},"order":2,},
     {"id":{"name":"sBen","path":"sprites/sBen/sBen.yy",},"order":6,},
     {"id":{"name":"sEnemyTriangle","path":"sprites/sEnemyTriangle/sEnemyTriangle.yy",},"order":5,},
+    {"id":{"name":"qTextTest","path":"sequences/qTextTest/qTextTest.yy",},"order":14,},
     {"id":{"name":"sBullet","path":"sprites/sBullet/sBullet.yy",},"order":0,},
     {"id":{"name":"sEnemyBullet","path":"sprites/sEnemyBullet/sEnemyBullet.yy",},"order":6,},
     {"id":{"name":"oEnemyExplosion","path":"objects/oEnemyExplosion/oEnemyExplosion.yy",},"order":5,},
